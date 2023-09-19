@@ -1,5 +1,6 @@
 # shoppingmall
 ![image](https://github.com/whasdnck/shoppingmall/assets/127116197/08e1c750-7f20-46f7-a6dd-d19fcb242cd3)
+
 # ✨쇼핑몰 project 환경 세팅✨
 ## 1. encoding - UTF-8 세팅 (page 기본 인코딩 설정)
 ## 2. Tomcat 연결
@@ -35,3 +36,41 @@
 ![image](https://github.com/whasdnck/shoppingmall/assets/127116197/bff5548c-3e69-4049-9228-2f86df35c184)
 ## rs에 값이 없다면 "입력한 회원번호의 검색결과가 없습니다." 띄워주는 코드
 ![image](https://github.com/whasdnck/shoppingmall/assets/127116197/9f35ee2a-dddd-40d9-80cf-c3ca2a27cf65)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
