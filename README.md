@@ -1,4 +1,3 @@
-![image](https://github.com/whasdnck/shoppingmall/assets/127116197/a0be2273-1cfd-4758-bb2b-d5c15f15878e)# shoppingmall
 ## ✨쇼핑몰 실제화면✨
 ### ✨홈 화면✨
 ![image](https://github.com/whasdnck/shoppingmall/assets/127116197/b0da942c-5b75-4040-bd59-0f506801a4a8)
@@ -19,7 +18,8 @@
 ![image](https://github.com/whasdnck/shoppingmall/assets/127116197/e02d0247-7340-469a-aaba-d71fae9a8449)
 ✨유효성 검사. 회원번호 입력칸이 비어있으면 포커스를 옮기고 경고창 띄우는 코드✨
 ![image](https://github.com/whasdnck/shoppingmall/assets/127116197/2fd16855-8bb0-456d-b7ca-fbacbcb04411)
-✨조회 버튼을 누르면 member_search_list.jsp로 데이터가 넘어가서 아래의 쿼리문이 실행된다. num에는 조회를 한 회원번호를, rs에는 그 회원번호의 정보를 저장한다✨
+✨조회 버튼을 누르면 member_search_list.jsp로 데이터가 넘어가서 아래의 쿼리문이 실행된다.
+num에는 조회를 한 회원번호를, rs에는 그 회원번호의 정보를 저장한다✨
 ![image](https://github.com/whasdnck/shoppingmall/assets/127116197/06bfbd59-1eee-41b4-b263-43a3f880e035)
 ✨회원조회 성공했을 경우의 화면✨
 ![image](https://github.com/whasdnck/shoppingmall/assets/127116197/6ec32db7-55f0-4c3d-b593-d1d3d3ddbad7)
