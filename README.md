@@ -18,6 +18,7 @@
 ![image](https://github.com/whasdnck/shoppingmall/assets/127116197/e02d0247-7340-469a-aaba-d71fae9a8449)
 ✨유효성 검사. 회원번호 입력칸이 비어있으면 포커스를 옮기고 경고창 띄우는 코드✨
 ![image](https://github.com/whasdnck/shoppingmall/assets/127116197/2fd16855-8bb0-456d-b7ca-fbacbcb04411)
+
 ✨조회 버튼을 누르면 member_search_list.jsp로 데이터가 넘어가서 아래의 쿼리문이 실행된다.
 num에는 조회를 한 회원번호를, rs에는 그 회원번호의 정보를 저장한다✨
 ![image](https://github.com/whasdnck/shoppingmall/assets/127116197/06bfbd59-1eee-41b4-b263-43a3f880e035)
