@@ -1,5 +1,28 @@
-# shoppingmall
-![image](https://github.com/whasdnck/shoppingmall/assets/127116197/08e1c750-7f20-46f7-a6dd-d19fcb242cd3)
+![image](https://github.com/whasdnck/shoppingmall/assets/127116197/a0be2273-1cfd-4758-bb2b-d5c15f15878e)# shoppingmall
+## ✨쇼핑몰 실제화면✨
+### ✨홈 화면✨
+![image](https://github.com/whasdnck/shoppingmall/assets/127116197/b0da942c-5b75-4040-bd59-0f506801a4a8)
+### ✨회원등록 화면✨
+![image](https://github.com/whasdnck/shoppingmall/assets/127116197/c3ff2510-a346-4fc3-ab63-1acdf6cb714b)
+✨스크립틀릿에서 DB연결 및 SQL문을 실행하여 num에 값을 저장하여 회원번호칸을 채워주는 코드✨
+![image](https://github.com/whasdnck/shoppingmall/assets/127116197/dd68d1ff-a114-484a-b0e2-869fcaa40c15)
+### ✨회원등록 SQL문✨
+✨DB에 insert 문을 이용하여 회원정보를 저장하는 코드✨
+![image](https://github.com/whasdnck/shoppingmall/assets/127116197/a157decf-9b34-4229-b8d2-45a2ad4f397e)
+### ✨회원목록조회/수정 화면✨
+![image](https://github.com/whasdnck/shoppingmall/assets/127116197/e7e5d068-ce7e-4922-b3ce-7cb11f855174)
+✨select문을 이용하여 사용자의 모든 정보검색 결과를 rs에 저장한다.✨
+![image](https://github.com/whasdnck/shoppingmall/assets/127116197/012e9def-3ef8-419d-9bd2-86ee3f292cd8)
+✨스크립틀릿을 안에서 while문을 이용하여 rs의 값을 모두 출력할 때까지 테이블에 데이터를 삽입해준다.✨
+![image](https://github.com/whasdnck/shoppingmall/assets/127116197/20a66a95-3587-4acc-8b8a-791a903ef9e3)
+### ✨회원조회 화면✨
+![image](https://github.com/whasdnck/shoppingmall/assets/127116197/e02d0247-7340-469a-aaba-d71fae9a8449)
+✨유효성 검사. 회원번호 입력칸이 비어있으면 포커스를 옮기고 경고창 띄우는 코드✨
+![image](https://github.com/whasdnck/shoppingmall/assets/127116197/2fd16855-8bb0-456d-b7ca-fbacbcb04411)
+✨조회 버튼을 누르면 member_search_list.jsp로 데이터가 넘어가서 아래의 쿼리문이 실행된다. num에는 조회를 한 회원번호를, rs에는 그 회원번호의 정보를 저장한다✨
+![image](https://github.com/whasdnck/shoppingmall/assets/127116197/06bfbd59-1eee-41b4-b263-43a3f880e035)
+✨회원조회 성공했을 경우의 화면✨
+![image](https://github.com/whasdnck/shoppingmall/assets/127116197/6ec32db7-55f0-4c3d-b593-d1d3d3ddbad7)
 
 # ✨쇼핑몰 project 환경 세팅✨
 ## 1. encoding - UTF-8 세팅 (page 기본 인코딩 설정)
